@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yam Store App</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">82484659431-b5e4nots6ec6gl7rcoljru706ta87gvr.apps.googleusercontent.com</string>
+</resources>
